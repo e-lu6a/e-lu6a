@@ -6,10 +6,10 @@ body {
 }
 
 .big {
-    font-size: 4em;
+    font-size: 64pt;
     /* font-weight: bold; */
 }
 .small {
-    font-size: 0.7em;
+    font-size: 11pt;
     color: dimgrey;
 }
