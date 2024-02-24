@@ -1,0 +1,15 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: auto;
+    width: fit-content;
+    margin-top: 15%;
+}
+
+.big {
+    font-size: 4em;
+    /* font-weight: bold; */
+}
+.small {
+    font-size: 0.7em;
+    color: dimgrey;
+}
